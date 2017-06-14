@@ -1,0 +1,7 @@
+export const RANDOM_FILL_CELLS = 'RANDOM_FILL_CELLS';
+export const CHANGE_CELLS = 'CHANGE_CELLS';
+export const SET_DIMENSIONS = 'SET_DIMENSIONS';
+export const INITIATE_MATRIX = 'INITIATE_MATRIX';
+export const CHANGE_CELL = 'CHANGE_CELL';
+export const SET_BORDERS = 'SET_BORDERS';
+export const SET_PATTERN = 'SET_PATTERN';

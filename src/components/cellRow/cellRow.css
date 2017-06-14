@@ -1,0 +1,13 @@
+.cell-row {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  height: 12px;
+  font-size: 0;
+  line-height: 0;
+}
+
+.cell-container {
+  display: inline-block;
+}

@@ -1,0 +1,7 @@
+.cellDead {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background-color: #ccc;
+  margin: 1px;
+}
